@@ -1,15 +1,13 @@
 <div align="center">
 
-# ☕ Java Notes & Practice
+# ☕ Java Cheat Sheets
 
-<img src="images/banner-java.png" alt="Java Banner" width="100%">
-
-### 📚 Repositorio personal de apuntes, prácticas y ejercicios de Java
+### 📚 Colección de chuletarios y apuntes de Java organizados por temas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Backend-Programming-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completo-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Made%20With-☕%20Coffee-black?style=for-the-badge">
 </p>
 
@@ -19,206 +17,69 @@
 
 # 📖 Descripción
 
-Este repositorio contiene mis apuntes, prácticas y ejercicios realizados durante mi aprendizaje de Java y desarrollo backend.
+Este repositorio contiene una colección organizada de chuletarios en formato PDF sobre diversos temas de programación en Java. Los documentos están diseñados para servir como referencia rápida durante el aprendizaje y desarrollo.
 
-El objetivo es documentar tanto la teoría como la práctica mediante ejemplos reales, ejercicios y proyectos organizados por temática.
-
----
-
-# 🚀 Objetivos del Repositorio
-
-- Mejorar mis conocimientos en Java
-- Practicar programación orientada a objetos
-- Documentar ejercicios y proyectos
-- Mantener un registro organizado de aprendizaje
-- Construir un portfolio técnico profesional
+Los chuletarios cubren desde conceptos básicos hasta temas avanzados como JDBC, JPA/Hibernate y patrones de diseño.
 
 ---
 
-# 📂 Estructura del Proyecto
+# 📂 Contenido
 
-```bash
-java-notes-and-practice/
-│
-├── docs/
-│   ├── fundamentos/
-│   ├── poo/
-│   ├── colecciones/
-│   ├── excepciones/
-│   ├── archivos/
-│   ├── jdbc/
-│   ├── hibernate/
-│   ├── spring/
-│   └── ejercicios/
-│
-├── ejercicios-java/
-│   ├── arrays/
-│   ├── strings/
-│   ├── poo/
-│   ├── colecciones/
-│   └── algoritmos/
-│
-├── images/
-│   ├── banner-java.png
-│   └── icons/
-│
-├── README.md
-└── LICENSE
-```
+Los archivos PDF se encuentran en la carpeta `docs/` y están organizados alfabéticamente con un formato consistente: `Chuletario - [Tema] - [Bloque/Unidad].pdf`
 
----
+### 📋 Lista de Chuletarios
 
-# 📚 Temario
+#### 🗄️ Bases de Datos y Persistencia
+- [Chuletario - Bases de Datos - Bloque 1.pdf](docs/Chuletario%20-%20Bases%20de%20Datos%20-%20Bloque%201.pdf)
+- [Chuletario - JDBC - Bloques 2 y 3.pdf](docs/Chuletario%20-%20JDBC%20-%20Bloques%202%20y%203.pdf)
+- [Chuletario - JDBC ResultSet - Bloque 4.pdf](docs/Chuletario%20-%20JDBC%20ResultSet%20-%20Bloque%204.pdf)
+- [Chuletario - JDBC Relaciones y JOIN - Bloque 5.pdf](docs/Chuletario%20-%20JDBC%20Relaciones%20y%20JOIN%20-%20Bloque%205.pdf)
+- [Chuletario - ORM y JPA - Bloques 1 y 2.pdf](docs/Chuletario%20-%20ORM%20y%20JPA%20-%20Bloques%201%20y%202.pdf)
+- [Chuletario - Relaciones entre Entidades JPA ORM - Bloque 3.pdf](docs/Chuletario%20-%20Relaciones%20entre%20Entidades%20JPA%20ORM%20-%20Bloque%203.pdf)
+- [Chuletario - Consultas con JPA Hibernate - Bloque 4.pdf](docs/Chuletario%20-%20Consultas%20con%20JPA%20Hibernate%20-%20Bloque%204.pdf)
 
-## ☕ Fundamentos de Java
-
-- Variables y tipos de datos
-- Operadores
-- Condicionales
-- Bucles
-- Métodos
-- Arrays
+#### 🔧 Conceptos Básicos de Java
+- [Chuletario - DAM Programación - Completo.pdf](docs/Chuletario%20-%20DAM%20Programación%20-%20Completo.pdf)
+- [Chuletario - Colecciones Java - Unidad 10.pdf](docs/Chuletario%20-%20Colecciones%20Java%20-%20Unidad%2010.pdf)
+- [Chuletario - Excepciones.pdf](docs/Chuletario%20-%20Excepciones.pdf)
+- [Chuletario - Excepciones en Java.pdf](docs/Chuletario%20-%20Excepciones%20en%20Java.pdf)
+- [Chuletario - Flujos Java - Bloque 1.pdf](docs/Chuletario%20-%20Flujos%20Java%20-%20Bloque%201.pdf)
+- [Chuletario - Flujos Java - Bloque 2.pdf](docs/Chuletario%20-%20Flujos%20Java%20-%20Bloque%202.pdf)
+- [Chuletario - Flujos Java - Bloque 3.pdf](docs/Chuletario%20-%20Flujos%20Java%20-%20Bloque%203.pdf)
+- [Chuletario - Flujos Java - Bloque 4.pdf](docs/Chuletario%20-%20Flujos%20Java%20-%20Bloque%204.pdf)
+- [Chuletario - GUI Swing - Bloque 5.pdf](docs/Chuletario%20-%20GUI%20Swing%20-%20Bloque%205.pdf)
+- [Chuletario - Herencia Casting y Polimorfismo.pdf](docs/Chuletario%20-%20Herencia%20Casting%20y%20Polimorfismo.pdf)
+- [Chuletario - Herencia Polimorfismo Java.pdf](docs/Chuletario%20-%20Herencia%20Polimorfismo%20Java.pdf)
+- [Chuletario - Relaciones entre Clases.pdf](docs/Chuletario%20-%20Relaciones%20entre%20Clases.pdf)
+- [Chuletario - Unidad 8.pdf](docs/Chuletario%20-%20Unidad%208.pdf)
 
 ---
 
-## 🧠 Programación Orientada a Objetos
+# 📖 Cómo Usar
 
-- Clases y objetos
-- Encapsulamiento
-- Herencia
-- Polimorfismo
-- Interfaces
-- Clases abstractas
+1. Navega a la carpeta `docs/`
+2. Selecciona el chuletario correspondiente al tema que necesitas
+3. Abre el archivo PDF con cualquier visor de PDF
 
----
-
-## 📦 Colecciones
-
-- ArrayList
-- LinkedList
-- HashMap
-- HashSet
-- Iteradores
-- Streams
+Los documentos están optimizados para impresión y referencia rápida.
 
 ---
 
-## ⚠️ Manejo de Excepciones
+# 📄 Licencia
 
-- try/catch
-- throw
-- throws
-- Excepciones personalizadas
-
----
-
-## 💾 Persistencia y Backend
-
-- JDBC
-- Hibernate
-- JPA
-- Spring Boot
-
----
-
-# 🛠 Tecnologías Utilizadas
-
-| Tecnología | Uso |
-|---|---|
-| Java | Desarrollo backend |
-| IntelliJ IDEA | IDE principal |
-| Git | Control de versiones |
-| GitHub | Repositorio remoto |
-| Maven | Gestión de dependencias |
-
----
-
-# 📈 Progreso de Aprendizaje
-
-| Tema | Estado |
-|---|---|
-| Fundamentos | ✅ |
-| POO | ✅ |
-| Arrays y Strings | ✅ |
-| Colecciones | ✅ |
-| Excepciones | ✅ |
-| JDBC | 🔄 |
-| Hibernate | 🔄 |
-| Spring Boot | ⏳ |
-
----
-
-# 🧪 Ejercicios Destacados
-
-## 🔹 Strings y Validaciones
-
-- Validación de contraseñas
-- Palíndromos
-- Contador de palabras
-- Expresiones regulares
-
-## 🔹 Arrays y Algoritmos
-
-- Rotación de arrays
-- Ordenamiento
-- Búsqueda lineal y binaria
-- Matrices
-
-## 🔹 Programación Orientada a Objetos
-
-- Gestión de usuarios
-- Simulación de pedidos
-- Relaciones entre clases
-- CRUD en memoria
-
----
-
-# 📷 Capturas y Recursos
-
-<p align="center">
-  <img src="images/java-example.png" width="700">
-</p>
-
----
-
-# 📖 Recursos de Aprendizaje
-
-- Java Documentation
-- OpenJDK
-- Baeldung
-- W3Schools
-- GeeksForGeeks
-
----
-
-# 🎯 Próximos Objetivos
-
-- Aprender Spring Security
-- Crear APIs REST
-- Integrar bases de datos
-- Mejorar arquitectura backend
-- Documentar proyectos completos
-
----
-
-# 🤝 Contribuciones
-
-Este repositorio es principalmente educativo y personal, aunque cualquier sugerencia o mejora es bienvenida.
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
 # 👩‍💻 Autor
 
-## Déborah Loisel
-
+**Déborah Loisel**  
 📍 Las Palmas de Gran Canaria  
-💻 Backend & Cybersecurity Student  
-☕ Java Developer in progress
+💻 Estudiante de Backend & Cybersecurity  
+☕ Java Developer en progreso
 
 ---
 
 <div align="center">
-
-### ⭐ Si te gusta el repositorio, puedes darle una estrella ⭐
-
+  <p>⭐ Si te resulta útil, ¡dale una estrella al repositorio!</p>
 </div>
